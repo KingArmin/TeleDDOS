@@ -5,6 +5,6 @@
 cd ~
 git clone https://github.com/KingArmin/dds
 cd dds
-python3 hammer.py -s site www.site.domain 
+python3 hammer.py -s www.site.domain 
 
 ```
