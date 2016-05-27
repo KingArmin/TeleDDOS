@@ -2,8 +2,8 @@
 
 ```
 
-cd ~ https://github.com/KingArmin/dds
-git clone
+cd ~
+git clone https://github.com/KingArmin/dds
 cd dds
 python3 hammer.py -s site www.site.domain 
 
