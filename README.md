@@ -2,7 +2,9 @@
 
 ```
 
-cd hammer
+cd ~
+git clone
+cd dds
 python3 hammer.py -s site www.site.domain 
 
 ```
