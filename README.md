@@ -7,4 +7,5 @@ git clone https://github.com/KingArmin/dds
 cd dds
 python3 hammer.py -s 192.168.1.1
 
+nsloockup
 ```
