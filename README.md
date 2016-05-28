@@ -8,7 +8,7 @@ cd dds
 
 nslookup www.moe.gov.sa
 
-python3 hammer.py -s 192.168.1.1
+python3 hammer.py -s 91.195.89.55
 
 
 ```
