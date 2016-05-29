@@ -3,11 +3,11 @@
 ```
 
 cd ~
-git clone https://github.com/KingArmin/TeleDDOS
-cd TeleDDOS
+git clone https://github.com/KingArmin/TeleHack
+cd TeleHack
 
 python3 hammer.py -s 52.28.119.169 
 
-nslookup www.radioalghad.com
+nslookup www.campteam.in
 
 ```
