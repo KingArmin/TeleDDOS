@@ -6,7 +6,7 @@ cd ~
 git clone https://github.com/KingArmin/TeleHack
 cd TeleHack
 
-python3 hammer.py -s 52.28.119.169 
+python3 hammer.py -s campteam.in
 
 nslookup www.campteam.in
 
