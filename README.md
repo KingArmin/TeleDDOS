@@ -6,8 +6,8 @@ cd ~
 git clone https://github.com/KingArmin/TeleHack
 cd TeleHack
 
-python3 hammer.py -s campteam.in
+python3 hammer.py -s parsapp.vcp.ir
 
-nslookup www.campteam.in
+nslookup parsapp.vcp.ir
 
 ```
